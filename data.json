@@ -1,0 +1,38 @@
+{
+  "data" [
+    {
+      "channel" :{
+        "channelid" :"vtv1",
+        "description" :"kenh vtv1 - phuong my chi tv",
+        "url" : "http://htv.live.vnroute.com/vtv1hd.1080p.tms/index.m3u8"
+      },
+
+      "channel" :{
+        "channelid" :"vtv2",
+        "description" :"kenh vtv2 - phuong my chi tv",
+        "url" : "http://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV2-SD-ABR/HTV-ABR/VTV2-SD-240p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTEzLjE4Ny4xNTMuMTkzIiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjExMy4xODcuMTUzLjE5MyIsImlhdCI6MTU4NTU3MDk2Mn0.Ufm0_hvcSjwGSffLSunJcjAPHXXNEz_Oi3RHB7UG7gnQ157xQfS7CNom60WoR2zypmpFyY9I-NBFbD2dOBeT-z--Kb91bGuInYKuPaPSWPbaNVYz-giUVdWebEvmu1vFGKf0VGM9oigsooyvUjlqDKwzbyPH7p-4iAdjAIuylZ1RtszMFuxr7RoCl9wi1vMK8mYaOmykDdrm3JbC1UZlbGvE2ka8Xr7U4dTP1l-5j3O-eQUME_u9XsUedTPrfjSF59FBDPkEXVLRf9M4pK-FEcWu82tkV0HiNHuVRqLfJfynYkcS2QMgReBLARDFMrPPzOxJm4K2zMC_YUV-i2VctYoKIrLYTgHm1UVsiSNSk5MjapcPXrnz9iV5HNrnaDeM8fpidMjCs5o5Q2e20F6Hq_r9N_sSAq1RoBiVHVtwdtWH_ZzjCPEzgG_FsibVJH0T9iBssyqoDhq8OKxETsndV_77XS0uLdfAUPbsb13OHy1s-jD5mUPnOLmWiV-Jg_ogal2o7f_Im-BrkODgm8dWMQe5IheVGRwGuXWRRhQcA9AAdImbYlI57XWlRKUxWKSMg1hXKLUJpHKKCMo7hITPuVU78xMLQOE43MJXSG1c1QKqLkb1S85gQr_tobhMN8SCT7j2bPwZ_ezDTpviNPeLNFGw7HBaZEo89zcN6S4CiII"
+      },
+      "channel" :{
+        "channelid" :"vtv3",
+        "description" :"kenh vtv3 - phuong my chi tv",
+        "url" : "http://htv.live.vnroute.com/vtv3hd.720p.catchup.tms/index.m3u8"
+      },
+      "channel" :{
+        "channelid" :"vtv4",
+        "description" :"kenh vtv4 - phuong my chi tv",
+        "url" : "http://htv.live.vnroute.com/vtv4hd.1080p.tms/index.m3u8"
+      },
+      "channel" :{
+        "channelid" :"vtv5",
+        "description" :"kenh vtv5 - phuong my chi tv",
+        "url" : "http://htv.live.vnroute.com/vtv5hd.1080p.tms/index.m3u8"
+      },
+      "channel" :{
+        "channelid" :"vtv6",
+        "description" :"kenh vtv6 - phuong my chi tv",
+        "url" : "http://htv.live.vnroute.com/vtv6hd.720p.tms/index.m3u8"
+      },
+    }
+
+  ]
+}
