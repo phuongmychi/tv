@@ -154,13 +154,15 @@
 
   });
 </script>
-	<style>
-	.logo {
-  	position: absolute;
- 	 top: 12px;
-  	left: 18px;
-	}
-	</style>
+	<script>
+	fetch(request, {mode: 'no-cors'})
+.then(function(response) {
+  console.log(response); 
+}).catch(function(error) {  
+  console.log('Request failed', error)  
+});
+	
+	</script>
 
 </head>
 <div class="bs-example">
