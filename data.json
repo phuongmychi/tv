@@ -1,35 +1,34 @@
 {
-	"phuongmychitv": "phuongmychi",
-	"channel": [{
-			"name": "Kênh VTV1 HD",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv1.jpg",
-			"url": "channel-vtv1.html"
-		},
-		{
-			"name": "Kênh HTV2",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/25/j1ug8ja9_vieon_livetv_logo_htv2_-_vie_channel.jpg",
-			"url": "channel-htv2.html"
+  "phuongmychitv" : "phuongmychi",
+  "channel" :{
+    "name" :"Kênh VTV1 HD",
+    "img" :"https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv1.jpg",
+    "url" : "channel-vtv1.html"
 
-		},
-		{
-			"name": "Kênh HTV7 HD",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/28icz0uf_33-_htv7.jpg",
-			"url": "channel-htv7.html"
+  },
+  {
+    "name" :"Kênh HTV2",
+    "img" :"https://static.vieon.vn/vieplay-image/avatar/2020/03/25/j1ug8ja9_vieon_livetv_logo_htv2_-_vie_channel.jpg",
+    "url" : "channel-htv2.html"
 
-		},
-		{
-			"name": "Kênh HTV9",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/6pxypx44_34-_htv9.jpg",
-			"url": "channel-htv9.html"
+  },
+  {
+    "name" :"Kênh HTV7 HD",
+    "img" :"https://static.vieon.vn/vieplay-image/avatar/2020/03/05/28icz0uf_33-_htv7.jpg",
+    "url" : "channel-htv7.html"
 
-		},
-		{
-			"name": "Kênh HTV PHIM",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/066pxoct_41-_htvc_-_phim.jp",
-			"url": "channel-htvphim.html"
+  },
+  {
+    "name" :"Kênh HTV9",
+    "img" :"https://static.vieon.vn/vieplay-image/avatar/2020/03/05/6pxypx44_34-_htv9.jpg",
+    "url" : "channel-htv9.html"
 
-		}
+  },
+  {
+    "name" :"Kênh HTV PHIM",
+    "img" :"https://static.vieon.vn/vieplay-image/avatar/2020/03/05/066pxoct_41-_htvc_-_phim.jp",
+    "url" : "channel-htvphim.html"
 
-	]
+  }
 
 }
