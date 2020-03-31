@@ -52,11 +52,14 @@
 		  var img = data.channel[i].img;
 		  var url = data.channel[i].url;
 		  
-		 $(".col-sm-3").append(`
-        <a href="${url}"><img src="${img}" alt="${name}" class="thumb"></a>
-        <div class="details">
-        <p id="titleoftname">${name}</p>
-        </div>`);
+		$(".row").append(`
+            <div class="col-sm-3" data-key="${name}">
+              <a href="${url}"><img src="${img}" alt="${name}" class="thumb"></a>
+              <div class="details">
+                <p id="title">${name}</p>
+              </div>
+            </div>
+            `)
 		  
 		  
 	  }
@@ -91,10 +94,8 @@
     </nav>
   <div class="container-fluid">
       <div class="row">
-	      <div class='col-sm-3'>
-	      
-	      </div>
-
+	     
+ 		
 
 
       </div>
