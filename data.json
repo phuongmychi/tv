@@ -1,28 +1,35 @@
 {
-	"data": [{
-			"channel": {
-				"channelid": "vtv1",
-				"description": "kenh vtv1 - phuong my chi tv",
-				"img" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg",
-				"urlpra" : "channel-vtv1hd.html",
-				"url": "http://htv.live.vnroute.com/vtv1hd.1080p.tms/index.m3u8"
-			},
-			"channel2": {
-				"channelid": "vtv3",
-				"description": "kenh vtv3 - phuong my chi tv",
-				"img" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg",
-				"urlpra" : "channel-vtv3hd.html",
-				"url": "http://htv.live.vnroute.com/vtv3hd.720p.catchup.tms/index.m3u8"
-			},
-		
-			"channel5": {
-				"channelid": "vtv6",
-				"description": "kenh vtv6 - phuong my chi tv",
-				"img" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg",
-				"urlpra" : "channel-vtv6d.html",
-				"url": "http://htv.live.vnroute.com/vtv6hd.720p.tms/index.m3u8"
-			}
+	"phuongmychitv": "phuongmychi",
+	"channel": [{
+			"name": "Kênh VTV1 HD",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv1.jpg",
+			"url": "channel-vtv1.html"
+		},
+		{
+			"name": "Kênh HTV2",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/25/j1ug8ja9_vieon_livetv_logo_htv2_-_vie_channel.jpg",
+			"url": "channel-htv2.html"
+
+		},
+		{
+			"name": "Kênh HTV7 HD",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/28icz0uf_33-_htv7.jpg",
+			"url": "channel-htv7.html"
+
+		},
+		{
+			"name": "Kênh HTV9",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/6pxypx44_34-_htv9.jpg",
+			"url": "channel-htv9.html"
+
+		},
+		{
+			"name": "Kênh HTV PHIM",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/066pxoct_41-_htvc_-_phim.jp",
+			"url": "channel-htvphim.html"
+
 		}
 
 	]
+
 }
