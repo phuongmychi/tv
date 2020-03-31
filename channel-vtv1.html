@@ -154,15 +154,18 @@
 
   });
 </script>
+	
+
 	<script>
 	fetch('https://livecdn-htv-vnd.vieon.vn/hls/2465ecb0453e2e9eb01f7551292b9f50/1585614917645/live/vtv1_62c90304e2c176698b17b7a88dac5ed5_1080p/index.m3u8', {mode: 'no-cors'})
-.then(function(response) {
-  console.log(response); 
-}).catch(function(error) {  
-  console.log('Request failed', error)  
-});
-	</script>
-
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data);
+  });
+	
+	</script>	
 </head>
 <div class="bs-example">
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
