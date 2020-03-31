@@ -46,6 +46,20 @@
   $(document).ready(function(){
   $.get('https://phuongmychi.github.io/tv/data.json',function(data){
   	console.log(data);
+	  for(var i=0; i<20;i++){
+	  	 console.log(data.channel[i].name);
+		  var namechanel = data.channel[i].name;
+		  var img = data.channel[i].img;
+		  var url = data.channel[i].url;
+		  
+		 $(".col-sm-3").append(`
+        <a href="${url}"><img src="${img}" alt="${namechannel}" class="thumb"></a>
+        <div class="details">
+        <p id="titleoftname">${namechanel}</p>
+        </div>`)
+		  
+		  
+	  }
   });
   });
 </script>
