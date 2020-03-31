@@ -48,15 +48,15 @@
   	console.log(data);
 	  for(var i=0; i<20;i++){
 	  	 console.log(data.channel[i].name);
-		  var namechannel = data.channel[i].name;
+		  var name = data.channel[i].name;
 		  var img = data.channel[i].img;
 		  var url = data.channel[i].url;
 		  
 		 $(".col-sm-3").append(`
-        <a href="${url}"><img src="${img}" alt="${namechannel}" class="thumb"></a>
+        <a href="${url}"><img src="${img}" alt="${name}" class="thumb"></a>
         <div class="details">
-        <p id="titleoftname">${namechannel}</p>
-        </div>`)
+        <p id="titleoftname">${name}</p>
+        </div>`);
 		  
 		  
 	  }
@@ -91,7 +91,9 @@
     </nav>
   <div class="container-fluid">
       <div class="row">
-        
+	      <div class='col-sm-3'>
+	      
+	      </div>
 
 
 
