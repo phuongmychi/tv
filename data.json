@@ -61,7 +61,16 @@
 			"url": "channel-vtc1.html",
 			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
 
-		}  
+		},
+		 {
+			"name": "Kênh Ha Noi TV",
+			"key": "vtc1",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/0fhkk35p_28-_h1_ha_noi_1.jpg",
+			"url": "channel-hanoitv.html",
+			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
+
+		}    
+		    
 		    
 	]
 }
