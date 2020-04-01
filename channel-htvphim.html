@@ -1,17 +1,16 @@
-
 <!DOCTYPE html>
 <html lang="vi">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Kênh HTVC PHIM - Phương Mỹ Chi TV,Xem TV Online </title>
+    <title>Kênh HTVC PHIM HD - Phương Mỹ Chi TV,Xem TV Online </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keyword" content="HTVC PHIMHD - Xem TV Online, Truyền Hình Trực Tuyến"/>
-	  <meta name="description" content="Phương Mỹ Chi TV - Xem TV Online , Xem kênh HTVC PHIM HD"/>
+  <meta name="keyword" content="HTVC PHIM HDHD - Xem TV Online, Truyền Hình Trực Tuyến"/>
+	  <meta name="description" content="Phương Mỹ Chi TV - Xem TV Online , Xem kênh HTVC PHIM HD HD"/>
   <meta name="robots" content="index, follow"/>
   <meta name="author" content="Phương Mỹ Chi">
     <!-- Schema.org for Google -->
   <meta itemprop="name" content="website">
-  <meta itemprop="description" id="des" content="Xem kênh truyền hình HTVC PHIMHD  Online miễn phí">
-  <meta itemprop="image" content="https://static.fptplay.net/static/img/share/channels/icon_channel_HTVC PHIM-hd_150173503925.jpg">
+  <meta itemprop="description" id="des" content="Xem kênh truyền hình HTVC PHIM HDHD  Online miễn phí">
+  <meta itemprop="image" content="https://static.fptplay.net/static/img/share/channels/icon_channel_HTVC PHIM HD-hd_150173503925.jpg">
   <!-- Twitter -->
   <meta name="twitter:card" content="player">
   <meta name="twitter:title" content="">
@@ -19,10 +18,10 @@
   <meta name="twitter:site" content="@phuongmychi_">
   <!-- Twitter - Video -->
   <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-  <meta name="og:title" content="Kênh HTVC PHIM - Phương Mỹ Chi TV,Xem TV Online Mới Nhất">
-  <meta name="og:description" content="Xem kênh HTVC PHIM HD, Phương Mỹ Chi TV - TV Online">
-  <meta name="og:image" content="https://static.fptplay.net/static/img/share/channels/icon_channel_HTVC PHIM-hd_150173503925.jpg">
-  <meta name="og:url" content="https://phuongmychi.github.io/tv/channel-HTVC PHIM.html">
+  <meta name="og:title" content="Kênh HTVC PHIM HD - Phương Mỹ Chi TV,Xem TV Online Mới Nhất">
+  <meta name="og:description" content="Xem kênh HTVC PHIM HD HD, Phương Mỹ Chi TV - TV Online">
+  <meta name="og:image" content="https://static.fptplay.net/static/img/share/channels/icon_channel_HTVC PHIM HD-hd_150173503925.jpg">
+  <meta name="og:url" content="https://phuongmychi.github.io/tv/channel-HTVC PHIM HD.html">
   <meta name="og:site_name" content="">
   <meta name="fb:app_id" content="385632028689084">
 	  <meta name='dailymotion-domain-verification' content='dm41adoss3rhn7aoj' />
@@ -112,16 +111,17 @@
         "html": JSON.stringify(data)
         }).appendTo( "head" );
         for(var i = 0; i<20;i++){
-          console.log(data.data[i].channel.channelid);
-          var channel = data.data[i].channel.channelid;
+          var name = data.channel[i].name;
+          var img = data.channel[i].img;
+          var url = data.channel[i].url;
 
 
 
-   //        $(".col-sm-3").append(`
-   // <a href="video.html?video=${vid}"><img src="${thumb}" alt="${title}" class="thumb"></a>
-   // <div class="details">
-   //   <p id="titleoftname">${title}</p>
-   // </div>
+          $(".col-sm-3").append(`
+   <a href="${url}"><img src="${img}" alt="${name}" class="thumb"></a>
+   <div class="details">
+     <p id="titleoftname">${name}</p>
+   </div>`);
 
 
 
@@ -152,6 +152,18 @@
       }
 
     });
+
+  });
+</script>
+<script type="text/javascript">
+  fetch('https://livecdn-htv-vnd.vieon.vn/hls/8e2ca641781f04467f8113afb8748fe2/1585707744835/live/vtv1_62c90304e2c176698b17b7a88dac5ed5_1080p/index.m3u8').then((response)=>{
+    return response.json();
+    if(response.status===403){
+      console.log("error");
+    }else{
+      console.log("OK");
+    }
+  }).then((data)=>{
 
   });
 </script>
@@ -215,42 +227,21 @@
            var player = videojs('example-video', options);
        </script>
             <hr/>
-            <h5 id="title"  class="tit">Kênh HTVC PHIMHD - Phuong My Chi TV Entertainment</h5>
+            <h5 id="title"  class="tit">Kênh HTVC PHIM HD - Phuong My Chi TV Entertainment</h5>
 
             </div></div>
       </div>
 
       <div class="col-sm-3">
         <h4>Video đề xuất: </h4>
-        <a href="channel-vtv1.html"><img src="https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_VTV1.jpg" alt="Kênh VTV1 - Phuong My Chi TV" class="thumb"></a>
-        <div class="details">
-          <p id="title">Kênh HTV1 HD</p>
-        </div>
 
-        <a href="channel-htv2.html"><img src="https://static.vieon.vn/vieplay-image/avatar/2020/03/25/j1ug8ja9_vieon_livetv_logo_htv2_-_vie_channel.jpg" alt="Kênh htv2 - Phuong My Chi TV" class="thumb"></a>
-        <div class="details">
-          <p id="title">Kênh HTV2 HD</p>
-        </div>
 
-        <a href="channel-htv7.html"><img src="https://static.vieon.vn/vieplay-image/avatar/2020/03/05/28icz0uf_33-_htv7.jpg" alt="Kênh HTV7 - Phuong My Chi TV" class="thumb"></a>
-        <div class="details">
-          <p id="title">Kênh HTV7 HD</p>
-        </div>
-
-        <a href="channel-htv9.html"><img src="https://static.vieon.vn/vieplay-image/avatar/2020/03/05/6pxypx44_34-_htv9.jpg" alt="Kênh HTV9 - Phuong My Chi TV" class="thumb"></a>
-        <div class="details">
-          <p id="title">Kênh HTV9</p>
 
       </div>
 
 <!--endconten-->
 
 <!-- Modal -->
-
-
-
-
-
 
   <div class="modal fade" id="myModal">
     <div class="modal-dialog modal-sm">
