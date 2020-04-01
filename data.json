@@ -16,6 +16,14 @@
 			"file": "https://neaoiomcci.vieon.vn/hls/883a5471b1bcd7419798147b790085b2/1585623357789/live/viechannel_1080p/index.m3u8"
 
 		},
+		 {
+			"name": "Kênh HTV3",
+			"key": "htv3",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/k4ukwmch_31-_htv3.jpg",
+			"url": "channel-htv3.html",
+			"file": "https://neaoiomcci.vieon.vn/hls/ed8f44c65da7b3b3cfba3dc3efee7d21/1585706682412/live/htv3_480p/index.m3u8"
+
+		},   
 		{
 			"name": "Kênh HTV7 HD",
 			"key": "htv7",
@@ -31,6 +39,13 @@
 			"file": "https://neaoiomcci.vieon.vn/hls/a0c1937764fddb2f3f4262d212944ba9/1585625381182/live/htv9_1080p/index.m3u8"
 
 		},
+		 {
+			"name": "Kênh HTVC Thể Thao",
+			"key": "htvthethao",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/c4qkfu0q_35-_htv_the_thao.jpg",
+			"url": "channel-htvthethao.html",
+			"file": "https://neaoiomcci.vieon.vn/hls/12115e7f59dc9b9db9f0858c01af5daf/1585706557772/live/htv_the_thao_1080p/index.m3u8"
+		},   
 		{
 			"name": "Kênh HTV PHIM",
 			"key": "htvcphim",
@@ -43,7 +58,7 @@
 			"name": "Kênh VTC1HD",
 			"key": "vtc1",
 			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/am3yi5jb_99-_vtc1.jpg",
-			"url": "channel-htvphim.html",
+			"url": "channel-vtc1.html",
 			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
 
 		}  
