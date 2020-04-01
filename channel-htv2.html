@@ -67,6 +67,8 @@
   <link href="https://vjs.zencdn.net/7.7.5/video-js.css" rel="stylesheet" />
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
  <script src="https://cdn.streamroot.io/videojs-hlsjs-plugin/1/stable/videojs-hlsjs-plugin.js"></script>
+ <!-- <link rel="stylesheet" href="videojs.logobrand.css"> -->
+ <link href="videojs-logo.css" rel="stylesheet">
 
 <style>
     .selected {
@@ -155,8 +157,33 @@
 
   });
 </script>
+<script type="text/javascript">
+  fetch('https://livecdn-htv-vnd.vieon.vn/hls/8e2ca641781f04467f8113afb8748fe2/1585707744835/live/HTV2_62c90304e2c176698b17b7a88dac5ed5_1080p/index.m3u8').then((response)=>{
+    return response.json();
+    if(response.status===403){
+      console.log("error");
+    }else{
+      console.log("OK");
+    }
+  }).then((data)=>{
 
+  });
+</script>
 
+<style media="screen">
+.logo {
+position: absolute;
+top: 5px;
+left: 9%;
+}
+@media screen and (orientation:portrait) {
+  .logo {
+  position: absolute;
+  top: 5px;
+  left: 9%;
+  }
+}
+</style>
 </head>
 <div class="bs-example">
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
@@ -198,6 +225,22 @@
          data-setup="{}">
          <source src="https://neaoiomcci.vieon.vn/hls/883a5471b1bcd7419798147b790085b2/1585623357789/live/viechannel_1080p/index.m3u8" type="application/x-mpegURL" />
        </video>
+       <!-- <img src="https://phuongmychi.github.io/logopmc.png" class="logo" width="120" alt=""> -->
+
+       <script src="videojs-logo.min.js"></script>
+       <script>
+   (function(window, videojs) {
+     var examplePlayer = window.examplePlayer = videojs('videopmc');
+     var logo = window.logo = examplePlayer.logo({
+       image: 'https://phuongmychi.github.io/logopmc.png',
+       url: 'https://phuongmychi.github.io/tv',
+       width: 120,
+       fadeDelay: null
+     });
+   }(window, window.videojs));
+ </script>
+
+
        <script>
            var options = {
                html5: {
