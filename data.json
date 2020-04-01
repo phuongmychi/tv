@@ -69,7 +69,15 @@
 			"url": "channel-hanoitv.html",
 			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
 
-		}    
+		},
+		 {
+			"name": "ANTV",
+			"key": "antv",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/orqpp0ot_99-_antv.jpg",
+			"url": "channel-antv.html",
+			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
+
+		}        
 		    
 		    
 	]
