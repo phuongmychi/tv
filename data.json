@@ -38,6 +38,15 @@
 			"url": "channel-htvphim.html",
 			"file": "https://neaoiomcci.vieon.vn/hls/0e213c0afb9eb927a2436511f25bbcca/1585630415027/live/htvc_phim_1080p/index.m3u8"
 
-		}
+		},
+		 {
+			"name": "Kênh VTC1HD",
+			"key": "vtc1",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/am3yi5jb_99-_vtc1.jpg",
+			"url": "channel-htvphim.html",
+			"file": "https://livecdn-htv.vieon.vn/hls/897e4ec43539a8b8edf185fbb1254959/1585706101957/live/vtc1_1080p/index.m3u8"
+
+		},   
+		    
 	]
 }
