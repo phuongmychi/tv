@@ -31,6 +31,22 @@
 			"url": "channel-vtv4.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/playlist.m3u8"
 
+        }, 
+        {
+            "name": "Kênh VTV5 HD",
+			"key": "vtv5",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.webp",
+			"url": "channel-vtv5.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv5_test/TV_HD/hd_vtv5_test_1080p/playlist.m3u8"
+
+        }, 
+        {
+            "name": "Kênh VTV6 HD",
+			"key": "vtv6",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.webp",
+			"url": "channel-vtv6.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/playlist.m3u8"
+
         },    
 		    
 		{
@@ -48,7 +64,40 @@
 			"url": "channel-htv3.html",
 			"file": "https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/a11bfd0d7c94066050b42344f0fb061b/1614583646563/htv_drm/live/htv3/playlist.m3u8"
 
+		},
+        {
+			"name": "Kênh HTV7 HD",
+			"key": "htv7",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ifxrm5vk_htv7hd.webp",
+			"url": "channel-htv7.html",
+			"file": "https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/798869f3f913e989f7da69ec8bd065f4/1614590686323/htv_drm/live/htv7/TV_HD/htv7_1080p/playlist.m3u8"
+
+		},
+        {
+			"name": "Kênh HTV9 HD",
+			"key": "htv9",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/fumnfkgr_htv9hd.webp",
+			"url": "channel-htv3.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/3d07422082a253acd5a32daca4af6889/1614590893894/htv_drm/live/htv9/TV_HD/htv9_1080p/playlist.m3u8"
+
+		},
+        {
+			"name": "Kênh VTVCab 1",
+			"key": "vtvcab1",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.webp",
+			"url": "channel-vtvcab1.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/92340d4921b93fd4fcb9e1b583107860/1614591056807/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/playlist.m3u8"
+
+		},
+        {
+			"name": "Kênh VTVCab 10",
+			"key": "vtvcab10",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.webp",
+			"url": "channel-vtvcab10.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/5f9d34dc9a6965c1ebeead8434f9fb0d/1614591165410/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/playlist.m3u8"
+
 		}
+
 	         
 		    
 		    
