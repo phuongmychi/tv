@@ -19,7 +19,7 @@
 		{
             "name": "Kênh VTV3 HD",
 			"key": "vtv3",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv3.jpg",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.webp",
 			"url": "channel-vtv3.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv3_test/TV_HD/hd_vtv3_test_1080p/playlist.m3u8"
 
@@ -27,7 +27,7 @@
         {
             "name": "Kênh VTV4 HD",
 			"key": "vtv4",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv3.jpg",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.webp",
 			"url": "channel-vtv4.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv4_test/TV_HD/hd_vtv4_test_1080p/playlist.m3u8"
 
@@ -36,7 +36,7 @@
 		{
 			"name": "Kênh HTV2",
 			"key": "htv2",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/25/j1ug8ja9_vieon_livetv_logo_htv2_-_vie_channel.jpg",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.webp",
 			"url": "channel-htv2.html",
 			"file": "https://sgn-vnpt-002-livecdn-vthcm-vnd.vieon.vn/721fde7763d6599303383b4df14b2d52/1614579991982/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8"
 
