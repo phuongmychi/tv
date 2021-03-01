@@ -43,27 +43,27 @@
         {
             "name": "Kênh VTV6 HD",
 			"key": "vtv6",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv6.webp",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.webp",
 			"url": "channel-vtv6.html",
-			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/playlist.m3u8"
+			"file": "https://sgn-cmc-001-livecdn-vthn-vnd.vieon.vn/0edf4e2f1a6b093b37d2bad8989f9688/1614676399249/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_720p/playlist.m3u8"
 
         }
 		, 
         {
             "name": "Kênh VTV7 HD",
 			"key": "vtv7",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv7.webp",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.webp",
 			"url": "channel-vtv6.html",
-			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv7_test/TV_HD/hd_vtv7_test_1080p/playlist.m3u8"
+			"file": "https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/6b9e715cfff8ab7fcfec63ef0e95c96f/1614676512451/vtc/live/hd_vtv7_test/playlist.m3u8"
 
         }
 		, 
         {
             "name": "Kênh VTV9 HD",
 			"key": "vtv9",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv9.webp",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.webp",
 			"url": "channel-vtv9.html",
-			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv9_test/TV_HD/hd_vtv9_test_1080p/playlist.m3u8"
+			"file": "https://sgn-cmc-001-livecdn-vthn-vnd.vieon.vn/de8dfbbc9381fdc32ad5bfacb3863888/1614676579439/vtc/live/hd_vtv9_test/TV_HD/hd_vtv9_test_720p/chunks.m3u8"
 
         }
 		,    
