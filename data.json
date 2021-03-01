@@ -3,7 +3,7 @@
 	"channel": [{
 			"name": "Kênh VTV1 HD",
 			"key": "vtv1",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.webp",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/03/05/ke8ootb5_99-_vtv1.jpg",
 			"url": "channel-vtv1.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/fadfa18318f71fac489726a815274906/1614583534852/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8"
 
@@ -43,11 +43,31 @@
         {
             "name": "Kênh VTV6 HD",
 			"key": "vtv6",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.webp",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv6.webp",
 			"url": "channel-vtv6.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_1080p/playlist.m3u8"
 
-        },    
+        }
+		, 
+        {
+            "name": "Kênh VTV7 HD",
+			"key": "vtv7",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv7.webp",
+			"url": "channel-vtv6.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv7_test/TV_HD/hd_vtv7_test_1080p/playlist.m3u8"
+
+        }
+		, 
+        {
+            "name": "Kênh VTV9 HD",
+			"key": "vtv9",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv9.webp",
+			"url": "channel-vtv9.html",
+			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/226304b45b854823bc18096b331e9306/1614584653331/vtc/live/hd_vtv9_test/TV_HD/hd_vtv9_test_1080p/playlist.m3u8"
+
+        }
+		,    
+		  
 		    
 		{
 			"name": "Kênh HTV2",
@@ -96,9 +116,40 @@
 			"url": "channel-vtvcab10.html",
 			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/5f9d34dc9a6965c1ebeead8434f9fb0d/1614591165410/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/playlist.m3u8"
 
-		}
+		},
+		{
+			"name": "HTVC Phim",
+			"key": "htvcphim",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.webp",
+			"url": "channel-vtvcab10.html",
+			"file": "https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/6a66ce9e7b6094fc43985804c370dc15/1614675274686/htv_drm/live/htvc_phim/TV_HD/htvc_phim_720p/playlist.m3u8"
 
-	         
+		},
+	
+		{
+			"name": "HTVC Ca Nhạc",
+			"key": "htvccanhac",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.webp",
+			"url": "channel-htvcanhac.html",
+			"file": "https://sgn-cmc-001-livecdn-vthcm-vnd.vieon.vn/394c7f08d232e4676645e4a5dc0fc131/1614675622742/htv_drm/live/htvc_ca_nhac/playlist.m3u8"
+
+		},
+		{
+			"name": "ANTV",
+			"key": "antv",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.webp",
+			"url": "channel-vtvcab10.html",
+			"file": "https://sgn-cmc-001-livecdn-vthcm-vnd.vieon.vn/0c41aaa95ba8fccef0fcea54c4e2b8b8/1614675748511/htv_drm/live/antv/playlist.m3u8"
+
+		},
+		{
+			"name": "VTC 3",
+			"key": "vtc3",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nd9vr37o_vtc3.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://sgn-cmc-001-livecdn-vthn-vnd.vieon.vn/e83bbf84ece0ff510e03e272f25beec9/1614675848431/vtc/live/hd_vtc3/TV_HD/hd_vtc3_720p/playlist.m3u8"
+
+		}    
 		    
 		    
 	]
