@@ -4,7 +4,7 @@
 			"name": "Kênh VTV1 HD",
 			"key": "vtv1",
 			
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.web",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.webp",
 			"url": "channel-vtv1.html",
 			"tss":"https://sgn-cmc-001-livecdn-vthn-vnd.vieon.vn/764e0175da4ff64545bce98baf1dba04/1614677192443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chu.m3u8",
 			"file": "https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/playlist.m3u8"
