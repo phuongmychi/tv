@@ -159,13 +159,12 @@
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/playlist.m3u8"
 
-		},
-		{
-			"next":"channel2"
-		}    
+		}
+		
 		    
 		    
 	],
+	"next1":"channel2",
 	"channel2":[
 		{
 			"name": "THVL2",
@@ -182,10 +181,11 @@
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8"
 
-		},
-		{
-			"next":"channel3"
+		}
+		 
+	],
+	"next2":"channel3"
 
-		}    
-	]
+
+
 }
