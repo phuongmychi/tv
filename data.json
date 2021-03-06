@@ -159,6 +159,9 @@
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/playlist.m3u8"
 
+		},
+		{
+			"next":"channel2"
 		}    
 		    
 		    
@@ -170,6 +173,18 @@
 			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hi3aqazw_thvl2.webp",
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8"
+
+		},
+		{
+			"name": "THVL3",
+			"key": "thvl2",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hi3aqazw_thvl2.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8"
+
+		},
+		{
+			"next":"channel3"
 
 		}    
 	]
