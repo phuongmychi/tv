@@ -159,6 +159,51 @@
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/playlist.m3u8"
 
+		},
+		{
+			"name": "Cartoon Network",
+			"key": "CN",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/01/15/4rvd2j17_cartoon-network.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8"
+
+		},
+		{
+			"name": "FOX SPORT 1",
+			"key": "foxsp1",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/03/03/vkiei2yq_fox_sports_.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT1-HD-1080p/playlist.m3u8"
+		},
+		{
+			"name": "FOX SPORT 2",
+			"key": "foxsp2",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/03/03/h5zvpz64_fox_sports_2.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8"
+		},
+		{
+			"name": "WarnerTV",
+			"key": "WarnerTV",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/03/10/xsrj79tb_warner_tv.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8"
+		},
+		{
+			"name": "Discovery Channel",
+			"key": "discovery",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/01/15/vh351gcs_discovery.webp",
+			"url": "disc.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8"
+
+		},
+		{
+			"name": "CINEMAX",
+			"key": "CINEMAX",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/03/03/3fwu2get_cinemax.webp",
+			"url": "max.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8"
+
 		}
 		
 		    
