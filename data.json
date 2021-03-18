@@ -204,6 +204,13 @@
 			"url": "max.html",
 			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8"
 
+		},
+		{
+			"name": "FOX MOVIE",
+			"key": "Foxmovie",
+			"img": "https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png?w=282&amp;mode=scale",
+			"url": "max.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8"
 		}
 		
 		    
