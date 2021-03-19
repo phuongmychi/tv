@@ -211,6 +211,14 @@
 			"img": "https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png?w=282&amp;mode=scale",
 			"url": "max.html",
 			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8"
+		},
+		{
+			"name": "AXN",
+			"key": "axnmovie",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2021/03/03/z1mpqfzd_axn.webp",
+			"url": "max.html",
+			"file": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8"
+
 		}
 		
 		    
