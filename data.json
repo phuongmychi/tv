@@ -145,12 +145,47 @@
 
 		},
 		{
+			"name": "VTC 1",
+			"key": "vtc1",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/vomjxwaf_vtc1.webp",
+			"url": "channel-vtc1.html",
+			"file": "https://livecdn.fptplay.net/sdb/vtc1_hls.smil/playlist.m3u8"
+		},
+		{
+			"name": "VTC 2",
+			"key": "vtc2",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/j7p7msoq_vtc2.webp",
+			"url": "channel-vtc2.html",
+			"file": "https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8"
+
+		},
+		{
 			"name": "VTC 3",
 			"key": "vtc3",
 			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nd9vr37o_vtc3.webp",
 			"url": "channel-vtc3.html",
 			"file": "https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/playlist.m3u8"
-
+		},
+		{
+			"name": "VTC 4",
+			"key": "vtc4",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/pveicc5i_yeah1family.webp",
+			"url": "channel-vtc4.html",
+			"file": "https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8"
+		},
+		{
+			"name": "VTC 5",
+			"key": "vtc5",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zmmtrjkj_tvblue.webp",
+			"url": "channel-vtc5.html",
+			"file": "https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8"
+		},
+		{
+			"name": "VTC 6",
+			"key": "vtc6",
+			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n29gxrhh_vtc6.webp",
+			"url": "channel-vtc3.html",
+			"file": "https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8"
 		},
 		{
 			"name": "THVL1",
