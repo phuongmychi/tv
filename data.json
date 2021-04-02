@@ -103,22 +103,7 @@
 			"file": "https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8"
 
 		},
-        {
-			"name": "Kênh VTVCab 1",
-			"key": "vtvcab1",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.webp",
-			"url": "channel-vtvcab1.html",
-			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/92340d4921b93fd4fcb9e1b583107860/1614591056807/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/playlist.m3u8"
-
-		},
-        {
-			"name": "Kênh VTVCab 10",
-			"key": "vtvcab10",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.webp",
-			"url": "channel-vtvcab10.html",
-			"file": "https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/5f9d34dc9a6965c1ebeead8434f9fb0d/1614591165410/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/playlist.m3u8"
-
-		},
+      
 		{
 			"name": "HTVC Phim",
 			"key": "htvcphim",
@@ -238,28 +223,7 @@
 		
 		    
 		    
-	],
-	"next1":"channel2",
-	"channel2":[
-		{
-			"name": "THVL2",
-			"key": "thvl2",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hi3aqazw_thvl2.webp",
-			"url": "channel-vtc3.html",
-			"file": "https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8"
-
-		},
-		{
-			"name": "THVL3",
-			"key": "thvl2",
-			"img": "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hi3aqazw_thvl2.webp",
-			"url": "channel-vtc3.html",
-			"file": "https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/playlist.m3u8"
-
-		}
-		 
-	],
-	"next2":"channel3"
+	]
 
 
 
